@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/home/usuario/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/24.0.0/support-annotations-24.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="2943c74db6d4346ab8c6531adac91fa05c137c40">
+        <dex dex="/home/usuario/Escritorio/AppsTestAndroid/EJEMPLOST4/CapturingTouchEvent/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-24.0.0_584530f9f831a9a4b528d256cf8fd0c433fef4c4/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/usuario/Escritorio/AppsTestAndroid/EJEMPLOST4/CapturingTouchEvent/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.0.0/jars/libs/internal_impl-24.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="fcaf463e10e69c1923ccf1edeba3b4196d239e00">
+        <dex dex="/home/usuario/Escritorio/AppsTestAndroid/EJEMPLOST4/CapturingTouchEvent/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.0.0_ad56d35de5d97d56829f454acea541eaeabb9ecb/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/usuario/Escritorio/AppsTestAndroid/EJEMPLOST4/CapturingTouchEvent/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ff126d54f752136b9ff5d5c633d2d22a39058290">
+        <dex dex="/home/usuario/Escritorio/AppsTestAndroid/EJEMPLOST4/CapturingTouchEvent/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_025042095131fec8aad558c74bf25a9fbf680d69/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/usuario/Escritorio/AppsTestAndroid/EJEMPLOST4/CapturingTouchEvent/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ab9e2e47e2007f63a2ac4a803080d93bb1c2a0d4">
+        <dex dex="/home/usuario/Escritorio/AppsTestAndroid/EJEMPLOST4/CapturingTouchEvent/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_83dadb005a3d3e735bec5a90ca71ba90467b068a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/usuario/Escritorio/AppsTestAndroid/EJEMPLOST4/CapturingTouchEvent/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="2f7e6e2dad1bccaf68a8820820adc6c0d5b96d37">
+        <dex dex="/home/usuario/Escritorio/AppsTestAndroid/EJEMPLOST4/CapturingTouchEvent/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-24.0.0_2079867b2311d176c06923741ea970f3aa185bf6/classes.dex" />
+    </item>
+
+</items>

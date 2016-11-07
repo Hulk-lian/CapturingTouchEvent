@@ -1,0 +1,7 @@
+#Mon Nov 07 11:04:35 CET 2016
+base.0=/home/usuario/Escritorio/AppsTestAndroid/EJEMPLOST4/CapturingTouchEvent/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_025042095131fec8aad558c74bf25a9fbf680d69
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=/home/usuario/Escritorio/AppsTestAndroid/EJEMPLOST4/CapturingTouchEvent/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_83dadb005a3d3e735bec5a90ca71ba90467b068a/classes.dex
+base.1=/home/usuario/Escritorio/AppsTestAndroid/EJEMPLOST4/CapturingTouchEvent/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_83dadb005a3d3e735bec5a90ca71ba90467b068a
+file.0=/home/usuario/Escritorio/AppsTestAndroid/EJEMPLOST4/CapturingTouchEvent/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_025042095131fec8aad558c74bf25a9fbf680d69/classes.dex
